@@ -73,10 +73,8 @@ Performance-focused DAX measures
 
 📊 Dashboard Preview
 
-(Add screenshots here for better presentation)
+https://github.com/sahil8906/GoodCabs_-SQL-Power-BI/blob/main/Goodabs.png
 
-Example:
-(Insert dashboard images in an /images folder and reference them here)
 
 🚀 How to Use
 
